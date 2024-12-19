@@ -28,12 +28,12 @@ For example, to use the network scanner tool:
 Navigate to the network scanner directory:
 Bash
 
-cd tools/network-scanner
+**cd tools/network-scanner**
 Follow the usage instructions provided in the README file within that directory.
 **Contributing**
 We welcome contributions from the community! If you would like to contribute to this repository, please follow these steps:
 **
-Fork the repository.**
+**Fork the repository.****
 Create a new branch for your feature or bugfix:
 Bash
 
@@ -42,7 +42,7 @@ Make your changes and commit them with a descriptive message.
 Push your changes to your forked repository:
 Bash
 
-git push origin feature-or-bugfix-name
+**git push origin feature-or-bugfix-name**
 Create a pull request to the main repository with a description of your changes.
 License
 This repository is licensed under the MIT License. See the LICENSE file for more information.

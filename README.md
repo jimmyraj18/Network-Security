@@ -14,7 +14,7 @@ To get started with the resources in this repository, follow these steps:
 Clone the repository to your local machine:**
 Bash
 
-git clone https://github.com/yourusername/network-security.git
+git clone https://github.com/jimmyraj18/Network-Security.git
 Navigate to the repository directory:
 Bash
 
